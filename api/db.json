@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Yesterday's Post",
+      "body": "This is yesterday's Post",
+      "id": 1
+    },
+    {
+      "title": "asasg",
+      "body": "agasga",
+      "id": 2
+    }
+  ]
+}
